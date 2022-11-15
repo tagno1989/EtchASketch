@@ -1,8 +1,10 @@
 .container {
-    width: 750px;
+   
 }
 .grid-row {
     display: flex;
+    width: 100%;
+    
 }
 
 .grid-box {
