@@ -64,3 +64,9 @@ button {
 footer {
     text-align: center;
 }
+
+.reset {
+    position: sticky;
+    top: 0;
+
+}

@@ -33,7 +33,7 @@ const createGrid = (amtOfGrids) => {
                 // gridBox.style.backgroundColor = bgColor
                 const currentOpacity  = Number( gridBox.style.opacity)
                 gridBox.style.backgroundColor = bgColor
-                gridBox.style.opacity =Number(currentOpacity) + .3
+                gridBox.style.opacity =Number(currentOpacity) + .7
             })
             row.appendChild(gridBox)
         }
